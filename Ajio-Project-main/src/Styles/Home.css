@@ -1,0 +1,155 @@
+.sec-first img{
+  transition: 1.1s;
+}
+
+.sec-first img:hover {
+  transform: scale(1.02);
+  overflow: hidden;
+}
+.sec-slide img
+{
+  transition: all 1.1s;
+}
+.sec-slide img:hover
+{
+  transform: scale(1.02);
+}
+.third-div img
+{
+  transition: all 0.7s ;
+}
+.third-div img:hover
+{
+  transform: scale(1.04);
+}
+.sec-four img
+{
+  transition: all 0.7s ;
+}
+.sec-four img:hover
+{
+  transform: scale(1.04);
+}
+.sec-fifth img
+{
+  transition: all 0.7s ;
+}
+.sec-fifth img:hover
+{
+  transform: scale(1.02);
+}
+.sec-six img
+{
+  transition: all 0.7s ;
+}
+.sec-six img:hover
+{
+  transform: scale(1.02);
+}
+.sec-seven img
+{
+  transition: all 0.7s ;
+}
+.sec-seven img:hover
+{
+  transform: scale(1.02);
+}
+.sec-eight img
+{
+  transition: all 1.1s;
+}
+.sec-eight img:hover
+{
+  transform: scale(1.02);
+}
+.sec-nine img
+{
+  transition: all 0.7s ;
+}
+.sec-nine img:hover
+{
+  transform: scale(1.01);
+}
+.pic-slider img
+{
+    transition:all 0.9s ;
+}
+.pic-slider img:hover
+{
+  transform: scale(1.01); 
+   
+}
+.six-box img
+{
+  transition: all 0.9s ;
+}
+.six-box img:hover
+{
+  transform: scale(1.02); 
+}
+.sec-eleven img
+{
+    transition:all 0.9s ;
+}
+.sec-eleven img:hover
+{
+  transform: scale(1.01); 
+   
+}
+.sec-twelth img
+{
+    transition:all 0.9s ;
+}
+.sec-twelth img:hover
+{
+  transform: scale(1.04); 
+   
+}
+.sec-thirteen img
+{
+    transition:all 0.9s ;
+}
+.sec-thirteen img:hover
+{
+  transform: scale(1.02);   
+}
+.sec-fourteen img
+{
+    transition:all 0.9s ;
+}
+.sec-fourteen img:hover
+{
+  transform: scale(1.02);   
+}
+.sec-fifteen img
+{
+    transition:all 0.9s ;
+}
+.sec-fifteen img:hover
+{
+  transform: scale(1.02);   
+}
+.sixteen-slide img
+{
+    transition:all 0.9s ;
+}
+.sixteen-slide img:hover
+{
+  transform: scale(1.02);   
+}
+.sec-seventeen img
+{
+    transition:all 0.9s ;
+}
+.sec-seventeen img:hover
+{
+  transform: scale(1.03);   
+}
+.sec-twenty img
+{
+    transition:all 0.9s ;
+}
+.sec-twenty img:hover
+{
+  transform: scale(1.03);   
+} 
